@@ -97,3 +97,16 @@ Helps coaches plan substitution patterns before kickoff
 Reduces friction by presenting analytics in a simple, intuitive format
 
 Bridges the gap between raw analytics and real tactical decisions
+
+**Reflection**
+GitHub supports analytics innovation by enabling low‑risk experimentation through branching. Analysts can test new ideas, refine metrics, and explore enhancements without disrupting the main project. This mirrors how sports organizations evaluate analytics ideas before full adoption.
+
+GitHub also helps analytics ideas gain traction by:
+
+Making changes transparent
+
+Documenting the evolution of ideas
+
+Providing a shared space for discussion and feedback
+
+Allowing decision makers to see progress without technical barriers
