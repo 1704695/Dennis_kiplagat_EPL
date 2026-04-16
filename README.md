@@ -73,3 +73,27 @@ Clarify the decision problem
 Outline the analytics approach
 
 Explain how decision makers would use it
+
+**Prototype Enhancement**
+The enhancement focuses on adding a Match‑Specific CTI Module that automatically generates a pre‑match “Clutch Threat Report” tailored to the upcoming opponent.
+
+What is being changed
+Incorporating opponent‑specific defensive tendencies
+
+Adding matchup‑based CTI projections
+
+Including a “Substitution Recommendation Engine” that suggests which attackers should be prioritized for late‑match minutes
+
+Adding a simple red/yellow/green confidence indicator based on sample size and opponent style
+
+Why this improves decision‑making
+Managers often prepare differently depending on the opponent’s defensive structure.
+This enhancement:
+
+Makes CTI actionable for today’s match
+
+Helps coaches plan substitution patterns before kickoff
+
+Reduces friction by presenting analytics in a simple, intuitive format
+
+Bridges the gap between raw analytics and real tactical decisions
